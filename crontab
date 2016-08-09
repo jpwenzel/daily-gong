@@ -1,0 +1,2 @@
+### Start at 10:14, sleep for a few seconds and then play the Big Ben chime.
+14  10  * * 1-5 /opt/local/daily-gong/daily-gong.sh
