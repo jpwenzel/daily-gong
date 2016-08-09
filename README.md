@@ -1,10 +1,12 @@
 # Daily Gong
 
-Play the Big Ben chime (starting at 10:14:44 CET) every weekday to invite
-members of team Verdi to their daily stand-up meeting at 10:15.
+Play the Big Ben chime to invite members of the development team to their daily
+stand-up meeting.
 
 ## Installation
 
+1. Adapt the time when the script is run to your needs in the `crontab` file
+within this project.
 1. Run the `install.sh` script
 
 ## Credits

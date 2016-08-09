@@ -3,6 +3,6 @@
 SHELL=/bin/sh
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
-### Start at 10:14, sleep for a few seconds and then start playing the Big Ben
-### chime just in time to end at exactly 10:15.
+# Start at 10:14, sleep for a few seconds and then start playing the Big Ben
+# chime just in time to end at exactly 10:15 (when the Daily Stand-up starts).
 14  10  * * 1-5 DAILY_GONG_RUNASUSER /opt/local/daily-gong/daily-gong.sh
