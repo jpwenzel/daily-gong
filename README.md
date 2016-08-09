@@ -13,3 +13,5 @@ within this project.
 
 Big Ben chime provided by the UK Parliament
 (http://www.parliament.uk/about/living-heritage/building/palace/big-ben/anniversary-year/downloads/)
+(the audio file provided by them has been shortened to 15 seconds for use in
+this project)
